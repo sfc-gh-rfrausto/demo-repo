@@ -1,5 +1,5 @@
 -- Initial V1 script
-CREATE SCHEMA DEMO;
+use schema demo_db.demo;
 CREATE TABLE HELLO_WORLD
 (
    FIRST_NAME  VARCHAR
